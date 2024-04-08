@@ -1,0 +1,28 @@
+h1{
+    background-color: aqua;
+    color:palevioletred;
+    text-align: center;
+    font-style: oblique;
+}
+
+h2{
+    color: rgb(112, 51, 59);
+    font-style: oblique;
+}
+p{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: brown;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#caja{
+    background-color: pink;
+    width: 500px;
+padding: 20px;
+
+}
